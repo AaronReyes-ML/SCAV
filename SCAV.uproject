@@ -64,6 +64,10 @@
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	]
 }
